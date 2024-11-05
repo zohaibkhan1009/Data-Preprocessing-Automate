@@ -1,0 +1,42 @@
+import pandas as pd
+import re
+import os
+
+# Set the working directory
+os.chdir("C:\\Users\\Zohaib khan\\OneDrive\\Desktop\\USE ME\\dump\\zk")
+
+# Load the dataset
+data = pd.read_csv("POC_EDA_Automate.csv")
+
+# 1. Remove duplicate records
+data = data.drop_duplicates()
+
+# 2. Handle missing values based on column data type
+for column in data.columns:
+    if data[column].dtype == 'object':
+        # For text columns, fill missing values with the mode
+        mode_value = data[column].mode()[0] if not data[column].mode().empty else ""
+        data[column] = data[column].fillna(mode_value)
+    elif data[column].dtype in ['int64', 'float64']:
+        # For numeric columns, fill missing values with the mean
+        mean_value = data[column].mean()
+        data[column] = data[column].fillna(mean_value)
+
+# 3. Remove special characters and convert to proper case for text columns
+def clean_text(text):
+    # Remove special characters
+    text = re.sub(r'[^A-Za-z0-9\s]', '', str(text))
+    # Convert to proper case
+    text = text.title()
+    return text
+
+for column in data.columns:
+    if data[column].dtype == 'object':
+        data[column] = data[column].apply(clean_text)
+
+# Save the cleaned dataset
+cleaned_file_path = "Cleaned_Dataset.csv"
+data.to_csv(cleaned_file_path, index=False)
+print("Dataset cleaned and saved to:", cleaned_file_path)
+
+
