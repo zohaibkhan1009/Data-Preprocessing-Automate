@@ -1,0 +1,121 @@
+Name,Age,height,City,Has Car,Education,Language,Mobile Number,Is Married,Sex,Skills,Salary
+John Doe,25,176,Kolkatta,TRUE,Grad,Bengalee,9038189085,No,Male,Excel,31241
+Jane Smith,30,162,Kolkatta,FALSE,Under Grad,Bengalee,9038125500,Yes,Female,Power Point,29793
+Mike Johnson,29,180,Varanasi,TRUE,School Drop Out,Hindi,9038192011,No,Male,Power Bi,32915
+Emily Brown,35,156,Bikaner,TRUE,College Drop Out,Hindi,9038108074,No,Male,Excel,35189
+David Lee,22,170,Bikaner,FALSE,Secondary,Hindi,9038118310,No,Male,Tally,29793
+Sarah Davis,33,167,Mumbhai,TRUE,High School,Marathee,9038171543,No,Female,Excel,32483
+Chris Wilson,29,185,Kolkatta,TRUE,Grad,Hindi,9038093386,No,Male,Excel,37729
+Ashley Taylor,27,161,Kolkatta,FALSE,Grad,Hindi,9038104569,Yes,Male,Power Point,19277
+Brian Miller,31,176,Kolkatta,TRUE,Grad,Hindi,9038180415,Yes,Male,Power Bi,29793
+Olivia White,26,169,Varanasi,FALSE,Grad,Hindi,9038181540,No,Female,Excel,34647
+Michael Brown,34,182,Bikaner,TRUE,Under Grad,Hindi,9038130150,No,Male,Tally,25407
+Jessica Lee,23,163,Bikaner,FALSE,Secondary,Hindi,9038190073,Yes,Female,Photoshop,29793
+Daniel Harris,29,178,Kolkatta,TRUE,High School,Marathee,9038194428,No,Male,Excel,42894
+Sophia Moore,28,171,Jalandhar,FALSE,Grad,Hindi,9038158831,No,Female,Power Point,26143
+Ethan Clark,25,175,Kolkatta,TRUE,Grad,Bengalee,9038117609,No,Male,Power Bi,37606
+Ava Robinson,29,160,Kolkatta,FALSE,Under Grad,Bengalee,9038096161,No,Male,Excel,15994
+Kevin Adams,29,179,Varanasi,TRUE,School Drop Out,Hindi,9038132850,Yes,Male,Excel,33686
+Mia Martinez,24,166,Bikaner,FALSE,College Drop Out,Hindi,9038187628,Yes,Female,Excel,37601
+Jacob Taylor,30,183,Bikaner,TRUE,Grad,Hindi,9038095006,No,Male,Excel,29793
+Lily Johnson,27,162,Mumbhai,FALSE,Under Grad,Marathee,9038114602,No,Female,Power Point,22542
+Noah Davis,31,177,Jalandhar,TRUE,School Drop Out,Hindi,9038176758,No,Male,Excel,18693
+Chloe White,29,169,Kolkatta,FALSE,College Drop Out,Bengalee,9038141173,No,Male,Excel,29793
+Christopher,33,180,Kolkatta,TRUE,Secondary,Bengalee,9038129937,Yes,Male,Tally,36872
+Emma Wilson,25,159,Varanasi,FALSE,High School,Hindi,9038173388,No,Female,Photoshop,40418
+Andrew Smith,29,177,Bikaner,TRUE,Grad,Hindi,9038174572,Yes,Male,Excel,29793
+Grace Lee,34,166,Bikaner,FALSE,Grad,Hindi,9038187622,Yes,Male,Excel,40273
+Benjamin Brown,26,172,Mumbhai,TRUE,Grad,Marathee,9038145623,No,Male,Power Bi,25297
+Zoey Taylor,29,165,Jalandhar,FALSE,Grad,Hindi,9038112596,No,Male,Excel,22489
+Joshua Harris,27,180,Kolkatta,TRUE,Under Grad,Bengalee,9038094527,Yes,Male,Tally,22825
+Natalie Moore,30,161,Kolkatta,FALSE,Secondary,Bengalee,9038098864,No,Female,Photoshop,29793
+Madison Harris,28,163,Varanasi,FALSE,High School,Hindi,9038100122,Yes,Female,Excel,35324
+Liam Wilson,33,176,Bikaner,TRUE,Grad,Hindi,9038095098,Yes,Male,Power Point,27419
+Aria Robinson,25,161,Bikaner,FALSE,Grad,Hindi,9038187685,Yes,Male,Power Bi,18547
+Jackson Davis,29,178,Mumbhai,TRUE,Under Grad,Marathee,9038179432,No,Male,Excel,27757
+Scarlett Lee,29,168,Kolkatta,FALSE,Grad,Hindi,9038134067,No,Female,Tally,39623
+Logan Taylor,26,173,Kolkatta,TRUE,College Drop Out,Bengalee,9038160913,No,Male,Photoshop,25350
+Abigail Smith,34,165,Kolkatta,FALSE,Grad,Bengalee,9038171995,Yes,Male,Excel,27701
+Samuel Brown,29,180,Varanasi,TRUE,Under Grad,Hindi,9038116768,Yes,Male,Power Point,16049
+Ella Martinez,30,162,Bikaner,FALSE,School Drop Out,Hindi,9038172193,Yes,Male,Excel,29436
+Caleb Johnson,28,175,Bikaner,TRUE,Grad,Hindi,9038143191,No,Male,Excel,44149
+Lily Harris,32,169,Mumbhai,FALSE,Secondary,Marathee,9038137369,No,Female,Tally,23157
+Oliver White,29,178,Jalandhar,TRUE,Grad,Hindi,9038167669,No,Male,Photoshop,28046
+Chloe Davis,29,163,Kolkatta,FALSE,Primary,Hindi,9038176465,No,Male,Excel,41005
+Henry Moore,33,176,Kolkatta,TRUE,Grad,Hindi,9038115261,No,Male,Power Point,27125
+Grace Robinson,26,169,Varanasi,FALSE,Grad,Hindi,9038142567,Yes,Male,Power Bi,42706
+Elijah Taylor,30,173,Kolkatta,TRUE,Grad,Hindi,9038181108,Yes,Male,Excel,28008
+Sofia Wilson,27,167,Bikaner,FALSE,Under Grad,Hindi,9038141118,Yes,Female,Tally,21591
+Carter Johnson,31,181,Mumbhai,TRUE,Secondary,Marathee,9038111429,Yes,Male,Photoshop,18291
+Addison Harris,28,164,Kolkatta,FALSE,High School,Hindi,9038110130,Yes,Female,Excel,19734
+Dylan Lee,29,176,Kolkatta,TRUE,Grad,Hindi,9038095573,Yes,Male,Power Point,20349
+Olivia White,26,169,Kolkatta,FALSE,Grad,Hindi,9038181540,No,Female,Power Bi,41143
+Michael Brown,34,182,Varanasi,TRUE,Under Grad,Hindi,9038130150,No,Male,Excel,29793
+Ethan Clark,29,175,Bikaner,TRUE,Grad,Hindi,9038117609,No,Male,Tally,37033
+Ava Robinson,29,160,Bikaner,FALSE,Under Grad,Hindi,9038096161,No,Male,Excel,35366
+Kevin Adams,36,179,Kolkatta,TRUE,School Drop Out,Marathee,9038132850,Yes,Male,Excel,19847
+Mia Martinez,24,166,Jalandhar,FALSE,College Drop Out,Hindi,9038187628,Yes,Female,Tally,18219
+Olivia White,29,169,Kolkatta,FALSE,Grad,Bengalee,9038181540,No,Female,Power Bi,38493
+Michael Brown,34,182,Kolkatta,TRUE,Under Grad,Bengalee,9038130150,No,Male,Excel,39525
+Ethan Clark,25,175,Varanasi,TRUE,Grad,Hindi,9038117609,No,Male,Tally,24109
+Kevin Adams,36,179,Bikaner,TRUE,School Drop Out,Hindi,9038132850,Yes,Male,Excel,18049
+John Doe,25,176,Mumbhai,TRUE,Grad,Marathee,9038189085,No,Male,Excel,29793
+Jane Smith,30,162,Jalandhar,FALSE,Under Grad,Hindi,9038125500,Yes,Female,Power Point,18321
+Mike Johnson,28,180,Kolkatta,TRUE,Grad,Bengalee,9038192011,No,Male,Power Bi,19064
+Emily Brown,35,156,Kolkatta,TRUE,College Drop Out,Bengalee,9038108074,No,Male,Excel,29793
+David Lee,22,170,Varanasi,FALSE,Secondary,Hindi,9038118310,No,Male,Tally,26126
+Sarah Davis,33,167,Bikaner,TRUE,High School,Hindi,9038171543,No,Female,Photoshop,37958
+Chris Wilson,29,185,Bikaner,TRUE,Primary,Hindi,9038093386,No,Male,Excel,30323
+Ashley Taylor,29,161,Kolkatta,FALSE,Grad,Hindi,9038104569,Yes,Male,Power Point,23511
+Brian Miller,31,176,Jalandhar,TRUE,Grad,Hindi,9038180415,Yes,Male,Power Bi,29133
+Olivia White,26,169,Kolkatta,FALSE,Grad,Bengalee,9038181540,No,Female,Excel,20990
+Michael Brown,29,182,Kolkatta,TRUE,Under Grad,Bengalee,9038130150,No,Male,Tally,26849
+Atul,28,176,Kolkatta,FALSE,Grad,Hindi,9038231887,No,Male,Excel,17220
+Namish,37,162,Kolkatta,TRUE,School Drop Out,Hindi,9038261954,Yes,Male,Python,34741
+Namita,35,180,Mumbhai,FALSE,College Drop Out,Hindi,9038134007,No,Female,Power Bi,16830
+Arpita,25,156,Jalandhar,TRUE,Secondary,Hindi,9038289565,No,Female,Power Point,34686
+Kuntal,23,170,Jalandhar,TRUE,High School,Hindi,9038131376,No,Male,Excel,37043
+Ravi,19,167,Kolkatta,FALSE,Grad,Hindi,9038292633,Yes,Male,Java,38291
+Kishan,23,185,Kolkatta,TRUE,Grad,Hindi,9038280694,No,Male,Oracle,33849
+Ishan,40,161,Mumbhai,FALSE,Grad,Hindi,9038141136,No,Male,Sql,33716
+Sneha,38,176,Jalandhar,FALSE,Grad,Hindi,9038197533,No,Female,Sql,18804
+Shahid,40,169,Jalandhar,TRUE,Under Grad,Hindi,9038572133,No,Male,Sql,17319
+Kunal,29,182,Jalandhar,TRUE,Under Grad,Hindi,9038436608,No,Male,Sql,35140
+Amit,33,163,Jalandhar,FALSE,Grad,Hindi,9038283920,No,Male,Sql,43064
+Harish,20,178,Mumbhai,TRUE,College Drop Out,Hindi,9038506202,No,Male,Sql,43931
+Uttam,29,176,Mumbhai,TRUE,Secondary,Marathee,9038432160,No,Male,Sql,27194
+Nimesh,27,162,Kolkatta,FALSE,High School,Hindi,9038185967,No,Male,Sql,44561
+Ravinder,24,180,Kolkatta,TRUE,Primary,Hindi,9038139596,Yes,Male,Excel,16263
+Joyshree,29,156,Kolkatta,TRUE,Grad,Hindi,9038523922,No,Female,Python,31170
+Debleena,24,170,Kolkatta,FALSE,Grad,Hindi,9038326807,Yes,Female,Power Bi,21419
+Zeba,20,167,Kolkatta,TRUE,Grad,Bengalee,9038477863,No,Female,Power Point,35776
+Niketan,37,185,Kolkatta,TRUE,Under Grad,Bengalee,9038211771,No,Male,Sql,38897
+Jane Smith,30,162,Kolkatta,FALSE,Under Grad,Bengalee,9038125500,Yes,Female,Excel,19096
+Mike Johnson,28,180,Varanasi,TRUE,School Drop Out,Hindi,9038192011,No,Male,Power Bi,32915
+David Lee,22,170,Bikaner,FALSE,Grad,Hindi,9038118310,No,Male,Tally,32541
+Sarah Davis,33,167,Mumbhai,TRUE,High School,Marathee,9038171543,No,Female,Photoshop,32483
+Chris Wilson,29,185,Jalandhar,TRUE,Primary,Hindi,9038093386,No,Male,Excel,37729
+Brian Miller,29,176,Jalandhar,TRUE,Grad,Hindi,9038180415,Yes,Male,Power Bi,29133
+Michael Brown,34,182,Kolkatta,TRUE,Under Grad,Bengalee,9038130150,No,Male,Tally,26849
+Atul,28,176,Kolkatta,FALSE,Under Grad,Hindi,9038231887,No,Male,Excel,17220
+Namish,37,162,Kolkatta,TRUE,School Drop Out,Hindi,9038261954,No,Male,Excel,34741
+Arpita,29,156,Jalandhar,TRUE,Secondary,Hindi,9038289565,No,Female,Power Point,34686
+Kuntal,23,170,Jalandhar,TRUE,High School,Hindi,9038131376,No,Male,Excel,37043
+Michael Brown,34,182,Varanasi,TRUE,Under Grad,Hindi,9038130150,No,Male,Excel,20481
+Ethan Clark,25,175,Bikaner,TRUE,Grad,Hindi,9038117609,No,Male,Tally,37033
+Ava Robinson,29,160,Bikaner,FALSE,Under Grad,Hindi,9038096161,No,Male,Photoshop,35366
+Kevin Adams,36,179,Mumbhai,TRUE,School Drop Out,Marathee,9038132850,Yes,Male,Excel,19847
+Daniel Harris,32,178,Mumbhai,TRUE,High School,Marathee,9038194428,No,Male,Excel,42894
+Ethan Clark,25,175,Kolkatta,TRUE,Grad,Bengalee,9038117609,No,Male,Power Bi,37606
+Kevin Adams,36,179,Varanasi,TRUE,School Drop Out,Hindi,9038132850,Yes,Male,Tally,33686
+Mia Martinez,29,166,Bikaner,FALSE,College Drop Out,Hindi,9038187628,Yes,Female,Photoshop,37601
+Jacob Taylor,30,183,Bikaner,TRUE,Grad,Hindi,9038095006,No,Male,Excel,38636
+Noah Davis,31,177,Jalandhar,TRUE,School Drop Out,Hindi,9038176758,No,Male,Power Bi,18693
+Henry Moore,29,176,Kolkatta,TRUE,Grad,Hindi,9038115261,No,Male,Power Point,27125
+Elijah Taylor,30,173,Bikaner,TRUE,Grad,Hindi,9038181108,Yes,Male,Excel,28008
+Addison Harris,28,164,Jalandhar,FALSE,High School,Hindi,9038110130,Yes,Female,Excel,19734
+Dylan Lee,34,176,Kolkatta,TRUE,Grad,Hindi,9038095573,Yes,Male,Power Point,20349
+Kuntal,29,170,Jalandhar,TRUE,High School,Hindi,9038131376,No,Male,Excel,37043
+Olivia White,26,169,Kolkatta,FALSE,Grad,Hindi,9038181540,No,Female,Excel,41143
+Mia Martinez,24,166,Bikaner,FALSE,College Drop Out,Hindi,9038187628,Yes,Female,Photoshop,37601
+Lily Johnson,29,162,Mumbhai,FALSE,Under Grad,Marathee,9038114602,No,Female,Power Point,22542
